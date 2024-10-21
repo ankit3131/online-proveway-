@@ -301,7 +301,7 @@ sup.offer{
     }
 .left_line, .right_line {
     width:24%;
- 
+}
 }
 @media screen and (min-width:355px) and (max-width: 530px) {
     .offer{
