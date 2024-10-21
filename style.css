@@ -297,12 +297,10 @@ sup.offer{
         height: 100%;
     }
     .heading h1{
-        font-size: 19px;
+        font-size: 16px;
     }
 
-    .heading h1{
-        font-size: 18px;
-    }
+ 
 }
 @media screen and (min-width:355px) and (max-width: 530px) {
     .offer{
