@@ -299,7 +299,8 @@ sup.offer{
     .heading h1{
         font-size: 16px;
     }
-
+.left_line, .right_line {
+    width:24%;
  
 }
 @media screen and (min-width:355px) and (max-width: 530px) {
